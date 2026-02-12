@@ -140,6 +140,8 @@ If there is sufficient interest, [create a proposal]. Do not submit a pull reque
 
 For a complete guide to contributing to Hugo, see the [Contribution Guide](CONTRIBUTING.md).
 
+**New to open source?** Check out our [Beginner's Contribution Guide](BEGINNER_CONTRIBUTION_GUIDE.md) to learn how to make your first contribution!
+
 ## Dependencies
 
 Hugo stands on the shoulders of great open source libraries. Run `hugo env --logLevel info` to display a list of dependencies.
